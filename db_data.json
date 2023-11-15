@@ -1,0 +1,1 @@
+{"form": {"1": {"name": "SignUp", "first_name": "text", "email": "email", "phone_number": "phone", "dob": "date"}, "2": {"name": "QuickSignUp", "first_name": "text", "email": "email"}, "3": {"name": "ContactInfo", "email": "email", "phone_number": "phone"}, "4": {"name": "DateOfBirth", "dob": "date"}}}
